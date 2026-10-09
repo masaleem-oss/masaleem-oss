@@ -7,7 +7,7 @@ Entrepreneur, student and builder of deterministic software tooling
 I work where software engineering meets applied machine learning. Most of what I build comes back to one question: can this system prove what it claims? I build production web infrastructure end to end, including browser automation, durable background workers, and OAuth 2.1 and MCP servers that let AI agents drive tools directly. My open-source project is Fengard, a home network firewall with family protection that runs on any OpenWrt-based router. On the research side, I'm training medical imaging models from scratch.
 
 * 🌍  I'm based in Melbourne, Australia
-* 🖥️  See my portfolio at [asad.saleems.com](http://https://asad.saleems.com)
+* 🖥️  See my portfolio at [asad.saleems.com](http://https://asad.saleems.com) (yes i know its not there yet..)
 * ✉️  You can contact me at [asad@saleems.com](mailto:asad@saleems.com)
 * 🚀  I'm currently working on [Fengard](http://github.com/masaleem-oss/fengard)
 
