@@ -1,9 +1,6 @@
 Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Asad
 =============================================================================================================================
 
-Entrepreneur, student and builder of deterministic software tooling
--------------------------------------------------------------------
-
 I work where software engineering meets applied machine learning. Most of what I build comes back to one question: can this system prove what it claims? I build production web infrastructure end to end, including browser automation, durable background workers, and OAuth 2.1 and MCP servers that let AI agents drive tools directly. My open-source project is Fengard, a home network firewall with family protection that runs on any OpenWrt-based router. On the research side, I'm training medical imaging models from scratch.
 
 * 🌍  I'm based in Melbourne, Australia
